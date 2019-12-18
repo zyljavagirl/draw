@@ -12,4 +12,4 @@ A simple lottery program.
 8. 所有静态资源均在本地，可离线使用。下载整个仓库，用浏览器打开index.html即可。
 
 
-Good luck to you guys!
+出处：https://github.com/kaysonli/lucky-ball
