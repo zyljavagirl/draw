@@ -1,6 +1,6 @@
 # lucky-ball
 A simple lottery program.
-一个简单的年会抽奖Web程序。[Demo](http://luckyball.surge.sh/index.html)
+一个简单的年会抽奖Web程序。[Demo](http://39.96.70.66:8080/lucky-ball-xdj/setting.html)
 ## Features
 1. 可编辑奖项，包括奖项名称、中奖人数、奖品。
 2. 如果单个奖项中奖人数过多，可分批抽取，每批人数可设置。
